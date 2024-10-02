@@ -1,3 +1,6 @@
 [submodule "firstattempt"]
 	path = firstattempt
 	url = https://github.com/unjerry/firstattempt.git
+[submodule "aiCr"]
+	path = aiCr
+	url = https://github.com/unjerry/aiCr.git
