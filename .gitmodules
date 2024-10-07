@@ -4,3 +4,6 @@
 [submodule "aiCr"]
 	path = aiCr
 	url = https://github.com/unjerry/aiCr.git
+[submodule "mikuMikuAnimation"]
+	path = mikuMikuAnimation
+	url = https://github.com/unjerry/mikuMikuAnimation.git
