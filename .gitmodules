@@ -7,3 +7,6 @@
 [submodule "mikuMikuAnimation"]
 	path = mikuMikuAnimation
 	url = https://github.com/unjerry/mikuMikuAnimation.git
+[submodule "papers"]
+	path = papers
+	url = https://github.com/unjerry/papers.git
