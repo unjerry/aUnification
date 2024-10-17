@@ -10,3 +10,6 @@
 [submodule "papers"]
 	path = papers
 	url = https://github.com/unjerry/papers.git
+[submodule "affairs"]
+	path = affairs
+	url = https://github.com/unjerry/affairs.git
