@@ -1,9 +1,6 @@
 [submodule "firstattempt"]
 	path = firstattempt
 	url = https://github.com/unjerry/firstattempt.git
-[submodule "aiCr"]
-	path = aiCr
-	url = https://github.com/unjerry/aiCr.git
 [submodule "mikuMikuAnimation"]
 	path = mikuMikuAnimation
 	url = https://github.com/unjerry/mikuMikuAnimation.git
@@ -13,3 +10,6 @@
 [submodule "affairs"]
 	path = affairs
 	url = https://github.com/unjerry/affairs.git
+[submodule "aiCraftBackUp"]
+	path = aiCraftBackUp
+	url = https://github.com/unjerry/aiCraftBackUp.git
