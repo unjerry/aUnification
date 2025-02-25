@@ -13,3 +13,6 @@
 [submodule "aiCraftBackUp"]
 	path = aiCraftBackUp
 	url = https://github.com/unjerry/aiCraftBackUp.git
+[submodule "mtExperiment"]
+	path = mtExperiment
+	url = https://github.com/unjerry/mtExperiment.git
