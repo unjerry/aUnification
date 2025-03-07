@@ -16,3 +16,6 @@
 [submodule "mtExperiment"]
 	path = mtExperiment
 	url = https://github.com/unjerry/mtExperiment.git
+[submodule "polymathApplicationMaterials"]
+	path = polymathApplicationMaterials
+	url = https://github.com/unjerry/polymathApplicationMaterials.git
