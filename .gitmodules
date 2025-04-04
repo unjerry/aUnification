@@ -19,3 +19,6 @@
 [submodule "polymathApplicationMaterials"]
 	path = polymathApplicationMaterials
 	url = https://github.com/unjerry/polymathApplicationMaterials.git
+[submodule "school_affair"]
+	path = school_affair
+	url = https://github.com/unjerry/school_affair.git
