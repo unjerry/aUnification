@@ -22,3 +22,6 @@
 [submodule "school_affair"]
 	path = school_affair
 	url = https://github.com/unjerry/school_affair.git
+[submodule "godot_follows"]
+	path = godot_follows
+	url = https://github.com/unjerry/godot_follows.git
