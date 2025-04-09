@@ -28,3 +28,6 @@
 [submodule "follows/undergraduatecourse_follows"]
 	path = follows/undergraduatecourse_follows
 	url = https://github.com/unjerry/undergraduatecourse_follows.git
+[submodule "follows/uni_follows"]
+	path = follows/uni_follows
+	url = https://github.com/unjerry/uni_follows.git
