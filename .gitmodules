@@ -25,3 +25,6 @@
 [submodule "godot_follows"]
 	path = godot_follows
 	url = https://github.com/unjerry/godot_follows.git
+[submodule "follows/undergraduatecourse_follows"]
+	path = follows/undergraduatecourse_follows
+	url = https://github.com/unjerry/undergraduatecourse_follows.git
