@@ -16,12 +16,6 @@
 [submodule "mtExperiment"]
 	path = mtExperiment
 	url = https://github.com/unjerry/mtExperiment.git
-[submodule "polymathApplicationMaterials"]
-	path = polymathApplicationMaterials
-	url = https://github.com/unjerry/polymathApplicationMaterials.git
-[submodule "school_affair"]
-	path = school_affair
-	url = https://github.com/unjerry/school_affair.git
 [submodule "follows/godot_follows"]
 	path = follows/godot_follows
 	url = https://github.com/unjerry/godot_follows.git
@@ -31,3 +25,9 @@
 [submodule "follows/uni_follows"]
 	path = follows/uni_follows
 	url = https://github.com/unjerry/uni_follows.git
+[submodule "application/school_affair"]
+	path = application/school_affair
+	url = https://github.com/unjerry/school_affair.git
+[submodule "application/polymathApplicationMaterials"]
+	path = application/polymathApplicationMaterials
+	url = https://github.com/unjerry/polymathApplicationMaterials.git
