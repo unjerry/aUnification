@@ -31,3 +31,6 @@
 [submodule "seg/mtExperiment"]
 	path = seg/mtExperiment
 	url = https://github.com/unjerry/mtExperiment.git
+[submodule "application/selfmaterial"]
+	path = application/selfmaterial
+	url = https://github.com/unjerry/selfmaterial.git
