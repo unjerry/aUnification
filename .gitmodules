@@ -1,6 +1,3 @@
-[submodule "firstattempt"]
-	path = firstattempt
-	url = https://github.com/unjerry/firstattempt.git
 [submodule "mikuMikuAnimation"]
 	path = mikuMikuAnimation
 	url = https://github.com/unjerry/mikuMikuAnimation.git
@@ -10,9 +7,6 @@
 [submodule "affairs"]
 	path = affairs
 	url = https://github.com/unjerry/affairs.git
-[submodule "aiCraftBackUp"]
-	path = aiCraftBackUp
-	url = https://github.com/unjerry/aiCraftBackUp.git
 [submodule "mtExperiment"]
 	path = mtExperiment
 	url = https://github.com/unjerry/mtExperiment.git
@@ -31,3 +25,9 @@
 [submodule "application/polymathApplicationMaterials"]
 	path = application/polymathApplicationMaterials
 	url = https://github.com/unjerry/polymathApplicationMaterials.git
+[submodule "Bdesigns/aiCraftBackUp"]
+	path = Bdesigns/aiCraftBackUp
+	url = https://github.com/unjerry/aiCraftBackUp.git
+[submodule "Bdesigns/firstattempt"]
+	path = Bdesigns/firstattempt
+	url = https://github.com/unjerry/firstattempt.git
