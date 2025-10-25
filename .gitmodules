@@ -1,15 +1,9 @@
-[submodule "mikuMikuAnimation"]
-	path = mikuMikuAnimation
-	url = https://github.com/unjerry/mikuMikuAnimation.git
 [submodule "papers"]
 	path = papers
 	url = https://github.com/unjerry/papers.git
 [submodule "affairs"]
 	path = affairs
 	url = https://github.com/unjerry/affairs.git
-[submodule "mtExperiment"]
-	path = mtExperiment
-	url = https://github.com/unjerry/mtExperiment.git
 [submodule "follows/godot_follows"]
 	path = follows/godot_follows
 	url = https://github.com/unjerry/godot_follows.git
@@ -31,3 +25,9 @@
 [submodule "Bdesigns/firstattempt"]
 	path = Bdesigns/firstattempt
 	url = https://github.com/unjerry/firstattempt.git
+[submodule "seg/mikuMikuAnimation"]
+	path = seg/mikuMikuAnimation
+	url = https://github.com/unjerry/mikuMikuAnimation.git
+[submodule "seg/mtExperiment"]
+	path = seg/mtExperiment
+	url = https://github.com/unjerry/mtExperiment.git
