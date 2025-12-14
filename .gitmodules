@@ -34,3 +34,6 @@
 [submodule "application/selfmaterial"]
 	path = application/selfmaterial
 	url = https://github.com/unjerry/selfmaterial.git
+[submodule "uni_projects/2025downAutumn/regdel"]
+	path = uni_projects/2025downAutumn/regdel
+	url = https://github.com/unjerry/regdel.git
