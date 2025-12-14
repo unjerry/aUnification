@@ -37,3 +37,6 @@
 [submodule "uni_projects/2025downAutumn/regdel"]
 	path = uni_projects/2025downAutumn/regdel
 	url = https://github.com/unjerry/regdel.git
+[submodule "uni_projects/2025downAutumn/aunCAC"]
+	path = uni_projects/2025downAutumn/aunCAC
+	url = https://github.com/unjerry/aunCAC.git
