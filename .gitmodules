@@ -40,3 +40,6 @@
 [submodule "uni_projects/2025downAutumn/aunCAC"]
 	path = uni_projects/2025downAutumn/aunCAC
 	url = https://github.com/unjerry/aunCAC.git
+[submodule "vscodeHistorySettings"]
+	path = vscodeHistorySettings
+	url = https://github.com/unjerry/vscodeHistorySettings.git
