@@ -43,3 +43,6 @@
 [submodule "vscodeHistorySettings"]
 	path = vscodeHistorySettings
 	url = https://github.com/unjerry/vscodeHistorySettings.git
+[submodule "uni_projects/2025downAutumn/learn-bevy"]
+	path = uni_projects/2025downAutumn/learn-bevy
+	url = https://github.com/jerzha40/learn-bevy.git
