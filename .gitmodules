@@ -46,3 +46,6 @@
 [submodule "uni_projects/2025downAutumn/learn-bevy"]
 	path = uni_projects/2025downAutumn/learn-bevy
 	url = https://github.com/jerzha40/learn-bevy.git
+[submodule "uni_projects/2025downAutumn/bnbCAC"]
+	path = uni_projects/2025downAutumn/bnbCAC
+	url = https://github.com/unjerry/bnbCAC.git
