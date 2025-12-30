@@ -49,3 +49,6 @@
 [submodule "uni_projects/2025downAutumn/bnbCAC"]
 	path = uni_projects/2025downAutumn/bnbCAC
 	url = https://github.com/unjerry/bnbCAC.git
+[submodule "uni_projects/2025downAutumn/Rubichev"]
+	path = uni_projects/2025downAutumn/Rubichev
+	url = https://github.com/unjerry/Rubichev.git
