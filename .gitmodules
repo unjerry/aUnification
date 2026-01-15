@@ -52,3 +52,6 @@
 [submodule "uni_projects/2025downAutumn/Rubichev"]
 	path = uni_projects/2025downAutumn/Rubichev
 	url = https://github.com/unjerry/Rubichev.git
+[submodule "uni_projects/2025downAutumn/MCLianJi"]
+	path = uni_projects/2025downAutumn/MCLianJi
+	url = https://github.com/unjerry/MCLianJi.git
