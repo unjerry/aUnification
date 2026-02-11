@@ -61,3 +61,6 @@
 [submodule "uni_projects/2025downAutumn/GJ/tankDaZhan"]
 	path = uni_projects/2025downAutumn/GJ/tankDaZhan
 	url = https://github.com/jerzha40/tankDaZhan.git
+[submodule "uni_projects/2025downAutumn/GJ/GGJ2026"]
+	path = uni_projects/2025downAutumn/GJ/GGJ2026
+	url = https://github.com/unjerry/GGJ2026.git
