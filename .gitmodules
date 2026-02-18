@@ -73,3 +73,6 @@
 [submodule "uni_projects/2025downAutumn/romona"]
 	path = uni_projects/2025downAutumn/romona
 	url = https://github.com/unjerry/romona.git
+[submodule "uni_projects/2025downAutumn/CACReport"]
+	path = uni_projects/2025downAutumn/CACReport
+	url = https://github.com/unjerry/CACReport.git
