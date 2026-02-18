@@ -70,3 +70,6 @@
 [submodule "uni_projects/2025downAutumn/uni-open-judge"]
 	path = uni_projects/2025downAutumn/uni-open-judge
 	url = https://github.com/unjerry/uni-open-judge.git
+[submodule "uni_projects/2025downAutumn/romona"]
+	path = uni_projects/2025downAutumn/romona
+	url = https://github.com/unjerry/romona.git
