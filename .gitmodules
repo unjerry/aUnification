@@ -78,3 +78,8 @@
 	url = https://github.com/unjerry/CACReport.git
 	branch = Profile
 	ignore = all
+[submodule "uni_projects/2025downAutumn/GJ/learn-rust_wgsl_ecs-mindustry_replicate"]
+	path = uni_projects/2025downAutumn/GJ/learn-rust_wgsl_ecs-mindustry_replicate
+	url = https://github.com/unjerry/learn-rust_wgsl_ecs-mindustry_replicate.git
+	branch = Profile
+	ignore = all
