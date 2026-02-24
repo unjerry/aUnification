@@ -83,3 +83,8 @@
 	url = https://github.com/unjerry/learn-rust_wgsl_ecs-mindustry_replicate.git
 	branch = Profile
 	ignore = all
+[submodule "uni_projects/2026upppSpringg/MConnection"]
+	path = uni_projects/2026upppSpringg/MConnection
+	url = https://github.com/unjerry/MConnection.git
+	branch = profile
+	ignore = all
