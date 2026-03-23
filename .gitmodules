@@ -92,3 +92,8 @@
 	url = https://github.com/unjerry/MConnection.git
 	branch = profile
 	ignore = all
+[submodule "uni_projects/2026upppSpringg/CoinDigger"]
+	path = uni_projects/2026upppSpringg/CoinDigger
+	url = https://github.com/unjerry/CoinDigger.git
+	branch = profile
+	ignore = all
