@@ -1,6 +1,7 @@
 [submodule "papers"]
 	path = papers
 	url = https://github.com/unjerry/papers.git
+	ignore = all
 [submodule "affairs"]
 	path = affairs
 	url = https://github.com/unjerry/affairs.git
