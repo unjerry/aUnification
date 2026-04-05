@@ -98,3 +98,8 @@
 	url = https://github.com/unjerry/CoinDigger.git
 	branch = profile
 	ignore = all
+[submodule "uni_projects/2026upppSpringg/RustRandomStuff"]
+	path = uni_projects/2026upppSpringg/RustRandomStuff
+	url = https://github.com/unjerry/RustRandomStuff.git
+	branch = profile
+	ignore = all
