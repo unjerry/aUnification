@@ -106,3 +106,5 @@
 [submodule "uni_projects/2026upppSpringg/Game/farmgame"]
 	path = uni_projects/2026upppSpringg/Game/farmgame
 	url = https://github.com/unjerry/farmgame.git
+	branch = profile
+	ignore = all
