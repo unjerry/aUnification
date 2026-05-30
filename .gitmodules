@@ -108,3 +108,8 @@
 	url = https://github.com/unjerry/farmgame.git
 	branch = profile
 	ignore = all
+[submodule "uni_projects/2026upppSpringg/Game/heaven_taker"]
+	path = uni_projects/2026upppSpringg/Game/heaven_taker
+	url = https://github.com/unjerry/heaven_taker.git
+	branch = profile
+	ignore = all
