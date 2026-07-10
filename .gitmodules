@@ -113,3 +113,8 @@
 	url = https://github.com/unjerry/heaven_taker.git
 	branch = profile
 	ignore = all
+[submodule "uni_projects/2026upppSpringg/20260710wjjLaTeX"]
+	path = uni_projects/2026upppSpringg/20260710wjjLaTeX
+	url = https://github.com/unjerry/20260710wjjLaTeX.git
+	branch = master
+	ignore = all
