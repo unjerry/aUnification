@@ -118,3 +118,18 @@
 	url = https://github.com/unjerry/20260710wjjLaTeX.git
 	branch = master
 	ignore = all
+[submodule "uni_projects/2026upppSpringg/TaoQiBaoZhi"]
+	path = uni_projects/2026upppSpringg/TaoQiBaoZhi
+	url = https://github.com/unjerry/TaoQiBaoZhi.git
+	branch = master
+	ignore = all
+[submodule "uni_projects/2026upppSpringg/Game/merge-drop"]
+	path = uni_projects/2026upppSpringg/Game/merge-drop
+	url = https://github.com/unjerry/merge-drop.git
+	branch = master
+	ignore = all
+[submodule "uni_projects/2026upppSpringg/CLeanTools"]
+	path = uni_projects/2026upppSpringg/CLeanTools
+	url = https://github.com/unjerry/CLeanTools.git
+	branch = master
+	ignore = all
