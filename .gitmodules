@@ -133,3 +133,6 @@
 	url = https://github.com/unjerry/CLeanTools.git
 	branch = master
 	ignore = all
+[submodule "uni_projects/2026downAutumn/anki-FA"]
+	path = uni_projects/2026downAutumn/anki-FA
+	url = https://github.com/unjerry/anki-FA.git
