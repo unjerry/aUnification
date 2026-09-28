@@ -136,3 +136,6 @@
 [submodule "uni_projects/2026downAutumn/anki-FA"]
 	path = uni_projects/2026downAutumn/anki-FA
 	url = https://github.com/unjerry/anki-FA.git
+[submodule "uni_projects/2026downAutumn/anchor"]
+	path = uni_projects/2026downAutumn/anchor
+	url = https://github.com/unjerry/anchor.git
