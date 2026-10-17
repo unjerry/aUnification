@@ -139,3 +139,6 @@
 [submodule "uni_projects/2026downAutumn/anchor"]
 	path = uni_projects/2026downAutumn/anchor
 	url = https://github.com/unjerry/anchor.git
+[submodule "uni_projects/2026downAutumn/writing"]
+	path = uni_projects/2026downAutumn/writing
+	url = https://github.com/unjerry/writing.git
