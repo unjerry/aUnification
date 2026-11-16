@@ -145,3 +145,6 @@
 [submodule "uni_projects/2026downAutumn/caplli"]
 	path = uni_projects/2026downAutumn/caplli
 	url = https://github.com/unjerry/caplli.git
+[submodule "uni_projects/2026downAutumn/dshtrial"]
+	path = uni_projects/2026downAutumn/dshtrial
+	url = https://github.com/unjerry/dshtrial.git
