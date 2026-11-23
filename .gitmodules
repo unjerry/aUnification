@@ -151,3 +151,6 @@
 [submodule "uni_projects/2026downAutumn/bible-reading"]
 	path = uni_projects/2026downAutumn/bible-reading
 	url = https://github.com/unjerry/bible-reading.git
+[submodule "uni_projects/2026downAutumn/godotplayground"]
+	path = uni_projects/2026downAutumn/godotplayground
+	url = https://github.com/unjerry/godotplayground.git
